@@ -14,7 +14,9 @@ This repository is exclusively for the Advanced Programming Final Project. This 
 Implementar un sistema Web utilizando JSP y Servlets. El trabajo se compondrá de tres partes:
   1. Especificación de requisitos, modelo conceptual de los sistemas y planificación de actividades (2.0 puntos).
   2. Aplicación: Tomar en cuenta el patrón de programación java (16.0 puntos).
-  3. Documentación: Informe de la aplicación conteniendo la explicación del diagrama de clases, modelo de Base de Datos y Arquitectura (2.0 puntos).
+  3. Documentación: Informe de la aplicación conteniendo la explicación del diagrama de clases, 
+  modelo de Base de Datos y Arquitectura (2.0 puntos).
+
 Los puntos de los artefactos (1) y (3) solamente se revisará con el funcionamiento del artefacto (2) (aplicación).
 
 Se considerarán los siguientes criterios en la evaluación del sistema:
