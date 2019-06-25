@@ -35,8 +35,9 @@ C. (G3) Sistema de Matrícula de un Colegio - Delgado
 D. (G4) Sistema de Gestión de un Restaurante - Aguilar
 
 Plazos:
-- Entrega de la especificación y requisitos del sistema  (Revisar ejemplo) (Plantilla para la presentación): Semana 14
+- Entrega de la especificación y requisitos del sistema (Plantilla para la presentación): Semana 14
 - Entrega y presentación del trabajo: Semana 16.
 Importante:
-- Trabajos copiados de cualquier medio o mandados hacer tendrán automáticamente la nota de 0 y desaprueban el curso.
+- Trabajos copiados de cualquier medio o mandados hacer tendrán automáticamente la nota de 0 
+  y desaprueban el curso.
 ```
