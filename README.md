@@ -7,6 +7,8 @@ This project will be collaborated among 5 members.
 ```
 ## MEMBERS
 ```
+The following members are the authors of the current Electric Train System Management
+
 -- DAZA MONTEIRO, JULIO ABEL
 -- CASANA VERA, JUAN CARLOS
 -- CASAVERDE CAMASITA, EDWAR
