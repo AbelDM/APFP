@@ -7,7 +7,7 @@ This repository is exclusively for the Advanced Programming Final Project. This 
 -- CASANA VERA, JUAN CARLOS
 -- CASAVERDE CAMASITA, EDWAR
 -- GONZALES RUEDA, ALEXANDRA
--- MARTÍNEZ, GARY
+-- MARTÍNEZ NORIEGA, GARY
 
 ## PROJECT DETAILS:
 
